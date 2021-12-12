@@ -18,7 +18,7 @@ There were 369,711 votes cast in this election :
 - Denver :  82.8% of voters, for a total of 306,055 voters.
 - Arapahoe :  6.7% of voters, for a total of 24,801 voters.
 
-#### The county with the largest number of votes : 
+#### The county with the largest number of votes  
 Denver had the largest number of votes
 
 #### A list of the number of votes and the percentage of the total votes each candidate received : 
