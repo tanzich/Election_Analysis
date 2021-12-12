@@ -11,7 +11,7 @@ The Purpose of this election audit analysis, is to study the election results. T
 Diana DeGette, who received 73.8% of the vote for a total of 272,892 votes, won this election.
 
 #### Total votes cast in this congressional election
-There were 369,711 votes cast in this election : 
+There were 369,711 votes cast in this election  
 
 #### A list of the number of votes and the percentage of total votes for each county in the precinct : 
 - Jefferson :  10.5% of voters, for a total of 38,855 voters.
@@ -38,4 +38,4 @@ We can make some small changes in the data and the script in order to provide mo
 ### Examples of modifying scripts
 - We could also add demography of the population in the data besides just the number of votes and use this information in the script. Once we have the demography of the voters in the script, we can easily combine  the race, age, and gender of candidates and find out for example, how many females or males voted. We can also find out which age group of the population votes the most. This will help the candidates to understand detailed information of the people casting votes. If candidates can understand the demography of the voters, they can reach out to their demography accordingly, thus helping them to win more votes.
 
-- We can also add the political party preference for each candidate in the data. Using this information we can print the total percentage of each political affiliation for each county. this will help us to understand the county's overall political party preference. This can assist the candidates to perform better in the election. 
+- We can also add the political party preference for each candidate in the data. Using this information we can print the total percentage of each political affiliation for each county. This will help us to understand the county's overall political party preference. This can assist the candidates to perform better in the election. 
