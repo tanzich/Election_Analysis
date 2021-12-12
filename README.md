@@ -8,26 +8,23 @@ The Purpose of this election audit analysis, is to study the election results. T
 ## Election-Audit Results:
 
 ### Election Outcome 
-Diana DeGette has won this election with 272,892 votes.
+Diana DeGette, who received 73.8% of the vote for a total of 272,892 votes, won this election.
 
 #### Total votes cast in this congressional election
-There were 369,711 votes cast in this election
+There were 369,711 votes cast in this election : 
 
-#### A list of the number of votes and the percentage of total votes for each county in the precinct.
+#### A list of the number of votes and the percentage of total votes for each county in the precinct : 
 - Jefferson :  10.5% of voters, for a total of 38,855 voters.
 - Denver :  82.8% of voters, for a total of 306,055 voters.
 - Arapahoe :  6.7% of voters, for a total of 24,801 voters.
 
-#### The county with the largest number of votes
+#### The county with the largest number of votes : 
 Denver had the largest number of votes
 
-#### A list of the number of votes and the percentage of the total votes each candidate received.
+#### A list of the number of votes and the percentage of the total votes each candidate received : 
 - Charles Casper Stockham : received 23.0% of the vote, for a total of 85,213 votes.
 - Diana DeGette :  received 73.8% of the vote, for a total of 272,892 votes.
 - Raymon Anthony Doane : received 3.1% of the vote, for a total of 11,606 votes.
-
-#### Winner of the election, their vote count, and their percentage of the total votes
-Diana DeGette, who received 73.8% of the vote for a total of 272,892 votes won this election.
 
 Please look at the [election results](Analysis/election_results.txt) to find more details.
 
