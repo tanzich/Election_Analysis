@@ -29,7 +29,7 @@ Denver had the largest number of votes
 #### Winner of the election, their vote count, and their percentage of the total votes
 Diana DeGette, who received 73.8% of the vote for a total of 272,892 votes won this election.
 
-Please look at the [Election results](Analysis/election_results.txt) to find more details.
+Please look at the [election results](Analysis/election_results.txt) to find more details.
 
 ## Election-Audit Summary:
 
