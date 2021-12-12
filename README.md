@@ -31,7 +31,7 @@ Diana DeGette, who received 73.8% of the vote for a total of 272,892 votes won t
 
 Please click the following link to open the election results:
 
-[Election results](Analysis:election_analysis.txt)
+[Election results](Analysis/election_analysis.txt)
 
 ## Election-Audit Summary:
 
